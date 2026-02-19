@@ -294,3 +294,6 @@ All enforced at compile time.
 
 # Let's Code!
 
+`github.com/bravit/rustnationuk26-rust-types-hands-on`
+
+![height:500px](qr.png)
